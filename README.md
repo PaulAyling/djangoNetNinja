@@ -14,3 +14,7 @@ https://youtu.be/n-FTlQ7Djqc
 
 netninga github
 https://github.com/iamshaunjp/django-playlist
+
+
+USING DJANGO
+start server : python3 manage.py runserver
