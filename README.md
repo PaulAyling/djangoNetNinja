@@ -19,4 +19,11 @@ USING DJANGO
 START SERVER : python3 manage.py runserver
 QUIT SERVER: ctl C
 CLEAR TERMINAL: ctl K
-CREATE# NEW APP: python3 manage.py startapp articles
+CREATE# NEW APP: python3
+
+
+ manage.py startapp articles
+
+CHANGE DATABASE
+python3 mamnage.py makemigrations
+python3 manage.py migrate
